@@ -16,5 +16,9 @@ COVID-19 Chest X-ray Dataset: https://github.com/ieee8023/covid-chestxray-datase
 ## Relevant literature:
 List of the published research works:
 
+## Open challenges:
+# Small data 
+# Validation without clinical trial
+
 ## Ideas for future work:
 A sentence about any potential idea for contributing to the COVID-19 crisis:
