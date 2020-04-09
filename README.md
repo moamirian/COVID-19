@@ -10,7 +10,8 @@ CLAIRE Taskforce on COVID19: http://covid19.claire-ai.org/
 Coronavirus research and innovation: https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research-and-innovation_en
 
 ## Available datasets:
-List of the publically or privately available dataset: 
+List of the publically or privately available dataset:  
+COVID-19 Chest X-ray Dataset: https://github.com/ieee8023/covid-chestxray-dataset
 
 ## Relevant literature:
 List of the published research works:
