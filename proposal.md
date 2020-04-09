@@ -1,4 +1,4 @@
-# Proposal for ZHAW Digital call for project to tackle COVID-19 crisis:
+# Proposal for ZHAW Digital call for projects to tackle COVID-19 crisis:
 
 1.Departement  
 Select your answer
