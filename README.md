@@ -9,11 +9,11 @@ Please refer to any interesting piece of information:
 CLAIRE Taskforce on COVID19: http://covid19.claire-ai.org/  
 Coronavirus research and innovation: https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research-and-innovation_en
 
-## Relevant literature:
-List of the published research works:
-
 ## Available datasets:
 List of the publically or privately available dataset: 
+
+## Relevant literature:
+List of the published research works:
 
 ## Ideas for future work:
 A sentence about any potential idea for contributing to the COVID-19 crisis:
