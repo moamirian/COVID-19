@@ -5,8 +5,8 @@ I want to collect the relevant material to orient our efforts for tackling the C
 Please enter a summary (one to two sentences) of any idea you know about regarding COVID-19 to collect the list of projects in progress:
 
 ## Relevant links:
-Please refer to any interesting piece of information:
-CLAIRE Taskforce on COVID19: http://covid19.claire-ai.org/
+Please refer to any interesting piece of information:  
+CLAIRE Taskforce on COVID19: http://covid19.claire-ai.org/  
 Coronavirus research and innovation: https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research-and-innovation_en
 
 ## Relevant literature:
