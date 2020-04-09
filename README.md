@@ -6,6 +6,8 @@ Please enter a summary (one to two sentences) of any idea you know about regardi
 
 ## Relevant links:
 Please refer to any interesting piece of information:
+CLAIRE Taskforce on COVID19: http://covid19.claire-ai.org/
+Coronavirus research and innovation: https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research-and-innovation_en
 
 ## Relevant literature:
 List of the published research works:
