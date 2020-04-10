@@ -23,3 +23,6 @@ List of the published research works:
 
 ## Ideas for future work:
 A sentence about any potential idea for contributing to the COVID-19 crisis:
+
+## Funding resources:
+https://www.versusvirus.ch/funding
