@@ -12,7 +12,7 @@ Coronavirus research and innovation: https://ec.europa.eu/info/research-and-inno
 ## Available datasets:
 List of the publically or privately available dataset:  
 COVID-19 Chest X-ray Dataset: https://github.com/ieee8023/covid-chestxray-dataset
-https://github.com/UCSD-AI4H/COVID-CT
+COVID-CT-Dataset: https://github.com/UCSD-AI4H/COVID-CT
 
 ## Challenges and competitions:
 https://covid-ct.grand-challenge.org/CT-diagnosis-of-COVID-19/
