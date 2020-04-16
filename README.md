@@ -29,3 +29,6 @@ Unveiling COVID-19 from Chest X-ray with deep learning: a hurdles race with smal
 
 ## Ideas for future work:
 A sentence about any potential idea for contributing to the COVID-19 crisis:
+
+## Funding resources:
+https://www.versusvirus.ch/funding
