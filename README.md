@@ -21,6 +21,7 @@ https://covid-ct.grand-challenge.org/CT-diagnosis-of-COVID-19/
 List of the published research works:  
 chav: A overview of the state of the art on AI-based techniques for Covid-19 X-ray and CT imaging: https://arxiv.org/pdf/2004.02731.pdf  
 COVID-CT-Dataset: A CT Scan Dataset about COVID-19: https://arxiv.org/pdf/2003.13865v1.pdf  
+Unveiling COVID-19 from Chest X-ray with deep learning: a hurdles race with small data: https://arxiv.org/abs/2004.05405
 
 ## Open research challenges:
 1) Small data 
