@@ -3,7 +3,6 @@ I want to collect the relevant material to orient our efforts for tackling the C
 
 ## Related works:
 Please enter a summary (one to two sentences) of any idea you know about regarding COVID-19 to collect the list of projects in progress:  
-chav: A overview of the state of the art on AI-based techniques for Covid-19 X-ray and CT imaging: https://arxiv.org/pdf/2004.02731.pdf 
 
 ## Relevant links:
 Please refer to any interesting piece of information:  
@@ -13,11 +12,17 @@ Coronavirus research and innovation: https://ec.europa.eu/info/research-and-inno
 ## Available datasets:
 List of the publically or privately available dataset:  
 COVID-19 Chest X-ray Dataset: https://github.com/ieee8023/covid-chestxray-dataset
+https://github.com/UCSD-AI4H/COVID-CT
+
+## Challenges and competitions:
+https://covid-ct.grand-challenge.org/CT-diagnosis-of-COVID-19/
 
 ## Relevant literature:
 List of the published research works:
+chav: A overview of the state of the art on AI-based techniques for Covid-19 X-ray and CT imaging: https://arxiv.org/pdf/2004.02731.pdf
+COVID-CT-Dataset: A CT Scan Dataset about COVID-19: https://arxiv.org/pdf/2003.13865v1.pdf
 
-## Open challenges:
+## Open research challenges:
 1) Small data 
 2) Validation without clinical trial
 
