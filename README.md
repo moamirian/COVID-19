@@ -13,6 +13,14 @@ Coronavirus research and innovation: https://ec.europa.eu/info/research-and-inno
 List of the publically or privately available dataset:  
 COVID-19 Chest X-ray Dataset: https://github.com/ieee8023/covid-chestxray-dataset  
 COVID-CT-Dataset: https://github.com/UCSD-AI4H/COVID-CT
+| Name  | Task | Source | Patients  |  Format | Type | Size | Country  |  Link(s) |
+| ------------- | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |
+CT machine learning dataset   | Classification | multiple | >20 | NIftI   | 3D | Various | Global | https://github.com/ieee8023/covid-chestxray-dataset 
+Lung infection segmentation dataset | Both | multiple | >20 | NIftI | 3D | Various | Global | https://zenodo.org/record/3757476#.Xpz8OcgzZPY |
+SARS-COV-2 Ct-Scan Dataset | Classification | single | 120 | png | Slice | Various | Brazil | https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset |
+UCSD COVID-CT database | Classification | multiple | >216 | png/jpg | Slice | Various | China | https://github.com/UCSD-AI4H/COVID-CT |
+MosMed COVID-19 Chest CT database | Both | multiple | 1110  | NIftI | 3D | (512,512) | Russia | https://mosmed.ai/datasets/covid19_1110 |
+COVID-19 CT segmentation dataset | Segmentation | single | >40 | NIftI  | Slice | (512,512) | Italy  | http://medicalsegmentation.com/covid19/ |
 
 ## Challenges and competitions:
 https://covid-ct.grand-challenge.org/CT-diagnosis-of-COVID-19/
